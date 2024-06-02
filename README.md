@@ -2,6 +2,9 @@
 
 <b>Live Demo: https://virtual-van-gogh.vercel.app/  </b>
 
+WINNER OF HINT 5.0 (Hack In The North) 2022 Edition!!! 
+https://www.instagram.com/hackinthenorth/
+
 There’s a huge push towards NFTs and virtual art that everyone is buzzing about. Even the top art experts agree that this new virtual space for art is going to revolutionize the industry in huge ways. The market for non-fungible tokens surged to $41 billion in 2021, easily comparable to the conventional art market $50 billion in 2020.
 
 
